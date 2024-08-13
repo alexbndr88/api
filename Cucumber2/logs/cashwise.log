@@ -1,0 +1,86 @@
+21:26:08 [main] INFO  step_definitions.SearchBarSteps - User is going to https://www.google.com
+21:26:13 [main] INFO  step_definitions.SearchBarSteps - User successfully landed on page Google
+21:26:13 [main] INFO  step_definitions.SearchBarSteps - User entered apple in input field
+14:06:57 [main] INFO  step_definitions.SearchBarSteps - User is going to https://www.google.com
+14:06:58 [main] INFO  step_definitions.SearchBarSteps - User successfully landed on page Google
+14:06:58 [main] INFO  step_definitions.SearchBarSteps - User entered apple in input field
+18:12:14 [main] INFO  step_definitions.SearchBarSteps - User is going to https://www.google.com
+18:12:15 [main] INFO  step_definitions.SearchBarSteps - User successfully landed on page Google
+18:12:37 [main] INFO  step_definitions.SearchBarSteps - User is going to https://www.google.com
+18:12:39 [main] INFO  step_definitions.SearchBarSteps - User successfully landed on page Google
+15:50:49 [main] INFO  step_definitions.SearchBarSteps - User is going to https://www.google.com
+15:50:50 [main] INFO  step_definitions.SearchBarSteps - User successfully landed on page Google
+15:50:50 [main] INFO  step_definitions.SearchBarSteps - User entered apple in input field
+<<<<<<< HEAD
+16:11:15 [main] INFO  step_definitions.SearchBarSteps - User is going to https://www.saucedemo.com/
+16:11:16 [main] INFO  step_definitions.SearchBarSteps - User successfully landed on page Swag Labs
+17:04:05 [main] INFO  step_definitions.CreateTariffSteps - user is located at the create tariff page
+17:08:23 [main] INFO  step_definitions.CreateTariffSteps - user is located at the create tariff page
+17:08:23 [main] INFO  step_definitions.CreateTariffSteps - user is clicking on create tariff
+17:08:23 [main] INFO  step_definitions.CreateTariffSteps - user is selecting branch
+17:08:24 [main] INFO  step_definitions.CreateTariffSteps - user enters name
+17:08:24 [main] INFO  step_definitions.CreateTariffSteps - user is selecting time
+17:08:24 [main] INFO  step_definitions.CreateTariffSteps - user is selecting type
+17:08:24 [main] INFO  step_definitions.CreateTariffSteps - user enters cost
+17:08:24 [main] INFO  step_definitions.CreateTariffSteps - user is selecting region
+17:08:25 [main] INFO  step_definitions.CreateTariffSteps - user is selecting availability
+17:08:25 [main] INFO  step_definitions.CreateTariffSteps - user is entering coordinates
+17:08:25 [main] INFO  step_definitions.CreateTariffSteps - user entering comments
+17:08:25 [main] INFO  step_definitions.CreateTariffSteps - user is clicking create 
+=======
+16:27:25 [main] INFO  step_definitions.SearchBarSteps - User is going to https://supplysync.us/login
+16:27:27 [main] INFO  step_definitions.SearchBarSteps - User successfully landed on page SupplySync
+16:57:38 [main] INFO  step_definitions.SearchBarSteps - User is going to https://supplysync.us/login
+16:57:40 [main] INFO  step_definitions.SearchBarSteps - User successfully landed on page SupplySync
+21:21:46 [main] INFO  step_definitions.SearchBarSteps - User is going to https://www.google.com
+21:21:47 [main] INFO  step_definitions.SearchBarSteps - User successfully landed on page Google
+21:21:47 [main] INFO  step_definitions.SearchBarSteps - User entered apple in input field
+>>>>>>> main
+17:20:52 [main] INFO  step_definitions.CreateTariffSteps - user is located at the create tariff page
+17:20:52 [main] INFO  step_definitions.CreateTariffSteps - user is clicking on create tariff
+17:20:53 [main] INFO  step_definitions.CreateTariffSteps - user is selecting branch
+17:20:53 [main] INFO  step_definitions.CreateTariffSteps - user enters name
+17:20:53 [main] INFO  step_definitions.CreateTariffSteps - user is selecting time
+17:20:53 [main] INFO  step_definitions.CreateTariffSteps - user is selecting type
+17:20:53 [main] INFO  step_definitions.CreateTariffSteps - user enters cost
+17:20:54 [main] INFO  step_definitions.CreateTariffSteps - user is selecting region
+17:20:54 [main] INFO  step_definitions.CreateTariffSteps - user is selecting availability
+17:20:54 [main] INFO  step_definitions.CreateTariffSteps - user is entering coordinates
+17:20:54 [main] INFO  step_definitions.CreateTariffSteps - user entering comments
+17:20:54 [main] INFO  step_definitions.CreateTariffSteps - user is clicking create 
+17:21:50 [main] INFO  step_definitions.CreateTariffSteps - user is located at the create tariff page
+17:21:50 [main] INFO  step_definitions.CreateTariffSteps - user is clicking on create tariff
+17:21:50 [main] INFO  step_definitions.CreateTariffSteps - user is selecting branch
+17:21:50 [main] INFO  step_definitions.CreateTariffSteps - user enters name
+17:21:50 [main] INFO  step_definitions.CreateTariffSteps - user is selecting time
+17:21:51 [main] INFO  step_definitions.CreateTariffSteps - user is selecting type
+17:21:51 [main] INFO  step_definitions.CreateTariffSteps - user enters cost
+17:21:51 [main] INFO  step_definitions.CreateTariffSteps - user is selecting region
+17:21:52 [main] INFO  step_definitions.CreateTariffSteps - user is selecting availability
+17:21:52 [main] INFO  step_definitions.CreateTariffSteps - user is entering coordinates
+17:21:52 [main] INFO  step_definitions.CreateTariffSteps - user entering comments
+17:21:52 [main] INFO  step_definitions.CreateTariffSteps - user is clicking create 
+18:45:00 [main] INFO  step_definitions.CreateTariffSteps - user is located at the create tariff page
+18:45:00 [main] INFO  step_definitions.CreateTariffSteps - user is clicking on create tariff
+18:45:00 [main] INFO  step_definitions.CreateTariffSteps - user is selecting branch
+18:45:00 [main] INFO  step_definitions.CreateTariffSteps - user enters name
+18:45:00 [main] INFO  step_definitions.CreateTariffSteps - user is selecting time
+18:45:01 [main] INFO  step_definitions.CreateTariffSteps - user is selecting type
+18:45:01 [main] INFO  step_definitions.CreateTariffSteps - user enters cost
+18:45:01 [main] INFO  step_definitions.CreateTariffSteps - user is selecting region
+18:45:02 [main] INFO  step_definitions.CreateTariffSteps - user is selecting availability
+18:45:02 [main] INFO  step_definitions.CreateTariffSteps - user is entering coordinates
+18:45:02 [main] INFO  step_definitions.CreateTariffSteps - user entering comments
+18:45:02 [main] INFO  step_definitions.CreateTariffSteps - user is clicking create 
+17:24:50 [main] INFO  step_definitions.CreateTariffSteps - user is located at the create tariff page
+17:24:50 [main] INFO  step_definitions.CreateTariffSteps - user is clicking on create tariff
+17:24:51 [main] INFO  step_definitions.CreateTariffSteps - user is selecting branch
+17:24:51 [main] INFO  step_definitions.CreateTariffSteps - user enters name
+17:24:51 [main] INFO  step_definitions.CreateTariffSteps - user is selecting time
+17:24:51 [main] INFO  step_definitions.CreateTariffSteps - user is selecting type
+17:24:51 [main] INFO  step_definitions.CreateTariffSteps - user enters cost
+17:24:52 [main] INFO  step_definitions.CreateTariffSteps - user is selecting region
+17:24:52 [main] INFO  step_definitions.CreateTariffSteps - user is selecting availability
+17:24:52 [main] INFO  step_definitions.CreateTariffSteps - user is entering coordinates
+17:24:52 [main] INFO  step_definitions.CreateTariffSteps - user entering comments
+17:24:52 [main] INFO  step_definitions.CreateTariffSteps - user is clicking create 

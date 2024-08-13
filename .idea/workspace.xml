@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="7d535700-1e42-475c-a37e-2e66442e2dc3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/Desktop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.localized" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desktop - MacBook Pro/.localized" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desktop - MacBook Pro/Batch6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desktop - MacBook Pro/Batch6/.idea/Batch6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desktop - MacBook Pro/Batch6/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desktop - MacBook Pro/Batch6/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desktop - MacBook Pro/Batch6/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desktop - MacBook Pro/Batch6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desktop - MacBook Pro/Batch6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desktop - MacBook Pro/Batch6/myfirstjavaproject/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desktop - MacBook Pro/Batch6/myfirstjavaproject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desktop - MacBook Pro/Batch6/myfirstjavaproject/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desktop - MacBook Pro/Batch6/myfirstjavaproject/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desktop - MacBook Pro/Batch6/myfirstjavaproject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desktop - MacBook Pro/Batch6/myfirstjavaproject/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desktop - MacBook Pro/Batch6/myfirstjavaproject/src/test/java/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desktop - MacBook Pro/Batch6/myfirstjavaproject/src/test/java/day1/Day1Homework.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desktop - MacBook Pro/Batch6/myfirstjavaproject/src/test/java/day1/IntroToVariables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desktop - MacBook Pro/Batch6/myfirstjavaproject/src/test/java/day1/PracticePrimitives.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desktop - MacBook Pro/Screenshot 2024-03-25 at 11.33.53 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desktop - MacBook Pro/javaapp/myapp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desktop - MacBook Pro/javaapp/myapp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshot 2024-06-18 at 6.25.37 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshot 2024-06-27 at 5.58.42 PM (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshot 2024-07-01 at 8.07.53 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshot 2024-07-01 at 8.07.59 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshot 2024-07-01 at 8.08.02 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshot 2024-07-01 at 8.08.04 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshot 2024-07-01 at 8.08.10 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshot 2024-07-01 at 8.08.43 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshot 2024-07-01 at 8.09.09 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshot 2024-07-03 at 11.57.08 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshot 2024-07-03 at 11.59.46 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshot 2024-07-15 at 6.23.26 PM (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshot 2024-07-15 at 6.23.26 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshot 2024-07-18 at 7.31.24 PM (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshot 2024-07-18 at 7.31.24 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshot 2024-07-18 at 7.38.07 PM (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshot 2024-07-18 at 7.38.07 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshot 2024-07-18 at 7.38.13 PM (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshot 2024-07-18 at 7.38.13 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshot 2024-07-24 at 12.28.37 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fruits/apple/appleJuice.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fruits/apple/applejuice1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fruits/banana/fruits" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fruits/bananaCake.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fruits/fruits" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fruits/orange/applejuice1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fruits/orange/fruits" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fruits/orange/frutis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fruits/orange/orangejuice.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScriptecuterjsExecuter/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScriptecuterjsExecuter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScriptecuterjsExecuter/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScriptecuterjsExecuter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScriptecuterjsExecuter/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/.idea/easycode.ignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/Google.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/LinkedTextandPartialLinkedText/LinkedText.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/LinkedTextandPartialLinkedText/taskk2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/Selenium.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/actions/IntroToActions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/actions/actions2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/actions/actions3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/actions/draganddrop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/exceptions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/gogle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/hw1/CSSHomework.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/hw1/DropdownHW.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/hw1/HomeworkWithXpath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/hw1/MagentoHomework.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/hw1/MagentoXpathTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/hw1/SauceDemoHomework.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/hw1/SelectHW1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/hw1/TestGoogle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/iframes/IntroToIFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/iframes/ebay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/jsExecuter/introtojs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/task2july18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/unitTestPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/xpath/XpathContainsMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/xpath/amazon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/xpath/blazedemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/xpath/blazedemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumAutomationProject/src/test/java/xpath/parentchildrenxpath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFirst/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFirst/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFirst/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFirst/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFirst/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumFirst/src/test/java/june10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/.idea/easycode.ignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/src/test/java/pages/ClientsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/src/test/java/pages/CommonPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/src/test/java/pages/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/src/test/java/pages/InvoicePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/src/test/java/pages/ProductsAndServices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/src/test/java/pages/Tariff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/src/test/java/pages/TariffTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/src/test/java/tests/Alert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/src/test/java/tests/Alert2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/src/test/java/tests/ClientsTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/src/test/java/tests/CommonTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/src/test/java/tests/HomePageTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/src/test/java/tests/HomeWork/Action1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/src/test/java/tests/HomeWork/DragNDrop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/src/test/java/tests/HomeWork/JUnitHW.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/src/test/java/tests/HomeWork/TestGooge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/src/test/java/tests/Tables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/src/test/java/tests/Validation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/src/test/java/tests/alert1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/src/test/java/tests/columns.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/src/test/java/tests/exceptions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/src/test/java/tests/popuptest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/src/test/java/utilities/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/src/test/java/utilities/Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/src/test/java/utilities/SeleniumUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumJUnitProject/src/test/resources/configurations.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumTestNGProject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tariff/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tariff/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tariff/.idea/easycode.ignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tariff/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tariff/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tariff/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tariff/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tariff/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tariff/src/main/java/resource.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tariff/src/test/java/Pages/CreateTariff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tariff/src/test/java/Pages/Tariff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tariff/src/test/java/Test/CreateTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tariff/src/test/java/Test/TariffTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tariff/src/test/java/Utilities/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tariff/src/test/java/Utilities/Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tariff/src/test/java/Utilities/SelUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tariff/src/test/resources/configurations.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tariffTestNg/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tariffTestNg/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tariffTestNg/.idea/easycode.ignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tariffTestNg/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tariffTestNg/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tariffTestNg/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tariffTestNg/configuration.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tariffTestNg/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day10/qweqe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day10/two.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day10/warmup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day11/BreakContinue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day11/EnterZero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day11/ForLoopPracticeHW.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day11/IntroToDOWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day11/NegativeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day11/PositiveNumberAcumulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day11/PracticeLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day11/RepeatUserMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day11/UserAuthentication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day11/WhileDoWhilePractice2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day11/WhileLoopIntro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day11/WhileLoopsHomework1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day11/WhileLoopsHomework2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day11/WhileLoopsHomework3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day12/practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day12/practice2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day12/practice3passwordcheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day13Array/ArrayCreationPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day13Array/ArrayHW1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day13Array/ArrayHW2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day13Array/ArrayHW3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day13Array/ArrayManipulation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day13Array/ArraysSorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day13Array/CheckForElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day13Array/DigitalClock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day13Array/FindDuplicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day13Array/IntroToArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day13Array/SumOfArrayElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day14/practiceArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day15/ArrayListHW1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day15/ArrayListHW2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day15/ArrayListHW3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day15/AutoboxingUnboxing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day15/IntroToArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day15/IntroToMultiArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day15/IntroToWrappers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day17/ArrayToList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day17/IntroToForEach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day17/PracticeForEach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day17/WarmUpTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day19/Recap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day2/ArithmeticOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day2/Casting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day2/ComparisonOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day2/CompaundOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day2/Concatenation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day2/Day2Homework1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day2/Day2Homework2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day2/Day2Homework3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day2/Day2Homework4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day2/Modulus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day20/CountCharacter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day20/CountVowelsHashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day20/FrequencyOfNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day20/HashMapHW1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day20/HashMapMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day20/HighestStock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day20/Homework2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day20/IntroToHashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day20/PracticePrinting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day20/SumOfDuplicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day20/TrackTasks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day21/Homework2/MethodsHw2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day21/Homework2/MethodsHw3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day21/Methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day21/MethodsHW1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day21/MethodsPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day21/practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day22/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day22/MyCalcuclator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day22/Overriding/Practice/GeometryCalculation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day22/Overriding/Practice/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day22/Overriding/Practice/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day22/Overriding/Practice/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day22/Overriding/Practice/ShapeMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day22/Overriding/Practice/StringUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day22/Overriding/Practice/calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day22/Overriding/Practice/main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day22/Overriding/bulldog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day22/Overriding/dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day22/Overriding/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day22/PaymentCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day22/Vehicle/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day22/Vehicle/car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day22/Vehicle/mainv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day22/Vehicle/motorcyle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day22/Vehicle/truck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day23/recap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day24/ArrayAssignments1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day24/ArrayAssignments2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day24/ArrayConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day24/ConcatArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day24/Converter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day24/DiffMinMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day24/Only14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day24/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day24/allpostitive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day25/ArrayAnalyzer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day25/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day25/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day25/StringAnalyzer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day25/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day26/BankCustomer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day26/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day26/LeftShifted.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day26/Lucky13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day26/RectangleConstructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day26/laptop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day27/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day27/Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day27/TestCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day28/Motorcycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day28/PerfectNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day28/TestMotorcycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day28/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/ANIMAL/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/ANIMAL/Feline.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/Employee/Designer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/Employee/Developer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/Employee/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/Employee/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/Laptop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/Person1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/Person1/Classroom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/Person1/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/Person1/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/Person1/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/Shape1/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/Shape1/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/Shape1/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/Shape1/TestShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/StaticPracticeStudents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/Technology.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/Vehicle/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/Vehicle/Motorcycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/Vehicle/Scooter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/Vehicle/Truck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/Vehicle/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/Vehicle1/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/Vehicle1/Garage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/Vehicle1/Motorcycle1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day29/Vehicle1/Vehicle1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day3/ChartAtPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day3/Day3Homework1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day3/Day3Homework2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day3/Day3Homework3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day3/IndexOfPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day3/IntroToString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day3/StringEquals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day3/UpperLowerCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day3/day3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day30/AnotherChild.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day30/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day30/CheckingAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day30/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day30/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day30/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day30/Recap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day30/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day30/SavingsAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day30/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day30/Shape1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day31/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day31/Bike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day31/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day31/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day31/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day31/Cow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day31/CreditCardPayment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day31/DebitCardPayment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day31/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day31/PayPalPayment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day31/Payment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day31/Problems/FindPrimeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day31/Problems/Problems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day31/Problems/ReverseNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day31/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day31/Shape31.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day31/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day31/Truck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day31/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day31/ecommerce/ClearanceDiscount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day31/ecommerce/Discount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day31/ecommerce/MemberDiscount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day31/ecommerce/SeasonalDiscount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day32/Admissions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day32/OverridingClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day32/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day32/instagram/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day32/instagram/BusinessAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day32/instagram/ChildOfOverriding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day32/instagram/PersonalAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day33/AbstractAnimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day33/Adoptable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day33/ECommerce/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day33/ECommerce/Clothing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day33/ECommerce/Discountable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day33/ECommerce/DiscountableBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day33/ECommerce/DiscountableClothing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day33/ECommerce/DiscountableElectronics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day33/ECommerce/Electronics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day33/ECommerce/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day33/ECommerce/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day33/Elephant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day33/Mammals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day33/Shelterable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day33/Whale.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day33/Zoo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day34/LibraryManagementSystem/Borrowable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day34/LibraryManagementSystem/BorrowableBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day34/LibraryManagementSystem/BorrowableMagazine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day34/LibraryManagementSystem/Library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day34/LibraryManagementSystem/LibraryItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day34/LibraryManagementSystem/MainLibrary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day34/LibraryManagementSystem/book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day34/LibraryManagementSystem/magazine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day35/Emplyee/Contractor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day35/Emplyee/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day35/Emplyee/EmployeeManagementSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day35/Emplyee/FullTimeEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day35/Emplyee/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day35/Emplyee/PartTimeEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day35/Encapsulation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day35/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day35/warmup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day36/IgnoringExceptiion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day37/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day37/BankAccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day37/InsufficientFundsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day37/LibraryManagementSystem/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day37/LibraryManagementSystem/BookNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day37/LibraryManagementSystem/Library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day37/LibraryManagementSystem/mainLibrary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day37/OnlineShoppingSystem/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day37/OnlineShoppingSystem/ProductNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day37/OnlineShoppingSystem/ShoppingCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day38/Restaurant/ItemNotOnMenuException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day38/Restaurant/Restaurant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day38/SwitchStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day38/onlinereservation/Event.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day38/onlinereservation/SeatUnavailableException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day4/ContainsPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day4/Day4Homework1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day4/Day4Homework2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day4/Day4Homework3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day4/Day4Homework4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day4/EqualsIgnoreCasePractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day4/RecapStringMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day4/ReplacePractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day4/StartsWithEndsWith.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day4/SubstringPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day4/TrimPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day5/Day5Homework1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day5/Day5Homework2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day5/GradingSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day5/IfElseIf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day5/IfIf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day5/IntroToIfElse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day5/IntroToLogicalOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day5/PracticeIfElse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day6/ConcateString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day6/Day6Homework1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day6/Day6Homework2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day6/Day6Homework3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day6/Day6Homework4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day6/Day6Homework5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day6/FindAverage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day6/IntroToScanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day6/KilometerConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day6/OddOrEven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day6/PracticeIsEmpty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day6/PracticeString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day6/SimpleCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day6/practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day7/Day7Homework1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day7/Day7Homework2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day7/Tasks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day7/homeworkrecap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day7/slacktask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day8/Day8Homework1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day8/Day8Homework2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day8/DayConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day8/MonthConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day8/PasswordValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day8/PmAm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day8/StringManipulationPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day9/AgeInDays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day9/CompoundOperatorPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day9/Day9Homework1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day9/Day9Homework2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day9/Day9Homework3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day9/ForLoopPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day9/IntroToForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day9/MaxNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day9/PalendromeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day9/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day9/PrimeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/day9/WarmUpTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/twoStrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/untitled1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../playground" beforeDir="false" />
+    </list>
+=======
+    <list default="true" id="7689f67c-6fea-4988-a2a9-9caa41415905" name="Changes" comment="Merge remote-tracking branch 'origin/Tariff' into Tariff" />
+>>>>>>> origin/main
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+<<<<<<< HEAD
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+=======
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+>>>>>>> origin/main
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+<<<<<<< HEAD
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2kGLTpKS73IcP8DooARcyNhPFL5" />
+=======
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2k1hDM2tUMoQCngkBASGHedWhan" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> origin/main
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+<<<<<<< HEAD
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Scenario: User creates a new tariff.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/oles/Desktop/java/Cucumber-main",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CucumberProject-main/.idea" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Scenario: User creates a new tariff" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/CucumberProject-main/src/test/resources/features/Tariff.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Cucumber-main" />
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Cucumber Java.Feature: CompanyOles.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: Gmail.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: Tariff.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: companies.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: login.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Add a new company successfully.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Login test.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Positive checkout.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Positive test case.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: User creates a new company.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: User creates a new tariff.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: positive scenario where opens webpage.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: positive scenario where user creating tariff.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: positive scenario where user searches for apple.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CashwiseRunner.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CompaniesRunner.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CucumberRunner.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TariffRunner.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/oles/Downloads/Cucumber-main&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="step_definitions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: User creates a new tariff">
+    <configuration name="Scenario: User creates a new company" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/CompanyOles.feature" />
+      <option name="GLUE" value="step_definitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Cucumber" />
+      <option name="NAME_FILTER" value="^User creates a new company$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^User creates a new company$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User creates a new company" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: User creates a new tariff" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Tariff.feature" />
+      <option name="GLUE" value="step_definitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Cucumber" />
+>>>>>>> origin/main
+      <option name="NAME_FILTER" value="^User creates a new tariff$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^User creates a new tariff$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User creates a new tariff" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< HEAD
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: User creates a new tariff" />
+=======
+    <configuration name="CashwiseRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="utilities" />
+      <option name="MAIN_CLASS_NAME" value="utilities.CashwiseRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompaniesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="utilities" />
+      <option name="MAIN_CLASS_NAME" value="utilities.CompaniesRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TariffRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="utilities" />
+      <option name="MAIN_CLASS_NAME" value="utilities.TariffRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Cucumber-main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Cucumber-main" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: User creates a new tariff" />
+        <item itemvalue="Cucumber Java.Scenario: User creates a new company" />
+        <item itemvalue="JUnit.TariffRunner" />
+        <item itemvalue="JUnit.CompaniesRunner" />
+        <item itemvalue="JUnit.CashwiseRunner" />
+>>>>>>> origin/main
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-corretto-21.0.2-f644763e9732-d6553c93" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+      <changelist id="7d535700-1e42-475c-a37e-2e66442e2dc3" name="Changes" comment="" />
+      <created>1722904976481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722904976481</updated>
+    </task>
+    <servers />
+  </component>
+=======
+      <changelist id="7689f67c-6fea-4988-a2a9-9caa41415905" name="Changes" comment="" />
+      <created>1722456869266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722456869266</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1722457233787</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722457233787</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1722457252637</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722457252637</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1722459301102</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722459301102</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1722459308406</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722459308406</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1722459442347</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722459442347</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1722459449815</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722459449815</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1722459519623</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722459519623</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1722459992469</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722459992469</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1722460329623</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722460329623</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1722460708747</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1722460708747</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1722632407472</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1722632407472</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1722632412041</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1722632412041</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1722632415243</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1722632415243</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update">
+      <option name="closed" value="true" />
+      <created>1722634751218</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1722634751218</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update">
+      <option name="closed" value="true" />
+      <created>1722638092106</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1722638092106</updated>
+    </task>
+    <task id="LOCAL-00016" summary="update">
+      <option name="closed" value="true" />
+      <created>1722638105921</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1722638105921</updated>
+    </task>
+    <task id="LOCAL-00017" summary="update">
+      <option name="closed" value="true" />
+      <created>1722638113404</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1722638113404</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Merge remote-tracking branch 'origin/Tariff' into Tariff">
+      <option name="closed" value="true" />
+      <created>1722638136845</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1722638136845</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Merge remote-tracking branch 'origin/Tariff' into Tariff">
+      <option name="closed" value="true" />
+      <created>1722640525653</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1722640525653</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Merge remote-tracking branch 'origin/Tariff' into Tariff">
+      <option name="closed" value="true" />
+      <created>1722640541721</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1722640541721</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Merge remote-tracking branch 'origin/Tariff' into Tariff">
+      <option name="closed" value="true" />
+      <created>1722730236067</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1722730236067</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Merge remote-tracking branch 'origin/Tariff' into Tariff">
+      <option name="closed" value="true" />
+      <created>1722730350425</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1722730350425</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Merge remote-tracking branch 'origin/Tariff' into Tariff">
+      <option name="closed" value="true" />
+      <created>1722730367963</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1722730367963</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Merge remote-tracking branch 'origin/Tariff' into Tariff">
+      <option name="closed" value="true" />
+      <created>1722892277605</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1722892277605</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Merge remote-tracking branch 'origin/Tariff' into Tariff">
+      <option name="closed" value="true" />
+      <created>1722892303124</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1722892303124</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Merge remote-tracking branch 'origin/Tariff' into Tariff">
+      <option name="closed" value="true" />
+      <created>1722895730938</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1722895730938</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Merge remote-tracking branch 'origin/Tariff' into Tariff">
+      <option name="closed" value="true" />
+      <created>1722895752461</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1722895752461</updated>
+    </task>
+    <task id="LOCAL-00028" summary="added logger">
+      <option name="closed" value="true" />
+      <created>1722895933519</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1722895933519</updated>
+    </task>
+    <task id="LOCAL-00029" summary="added logger">
+      <option name="closed" value="true" />
+      <created>1722896019499</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1722896019499</updated>
+    </task>
+    <task id="LOCAL-00030" summary="added logger">
+      <option name="closed" value="true" />
+      <created>1722896342312</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1722896342312</updated>
+    </task>
+    <task id="LOCAL-00031" summary="added logger">
+      <option name="closed" value="true" />
+      <created>1722896351619</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1722896351619</updated>
+    </task>
+    <task id="LOCAL-00032" summary="added logger">
+      <option name="closed" value="true" />
+      <created>1722896370919</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1722896370919</updated>
+    </task>
+    <task id="LOCAL-00033" summary="fixed code">
+      <option name="closed" value="true" />
+      <created>1722896580144</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1722896580144</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Merge remote-tracking branch 'origin/Tariff' into Tariff">
+      <option name="closed" value="true" />
+      <created>1722896594864</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1722896594864</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Merge remote-tracking branch 'origin/Tariff' into Tariff">
+      <option name="closed" value="true" />
+      <created>1722896606362</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1722896606362</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Merge remote-tracking branch 'origin/Tariff' into Tariff">
+      <option name="closed" value="true" />
+      <created>1722896627271</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1722896627271</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="update" />
+    <MESSAGE value="added logger" />
+    <MESSAGE value="fixed code" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/Tariff' into Tariff" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/Tariff' into Tariff" />
+  </component>
+>>>>>>> origin/main
+</project>
